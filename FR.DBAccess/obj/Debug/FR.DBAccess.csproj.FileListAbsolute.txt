@@ -1,0 +1,14 @@
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\FR.DBAccess.dll.config
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\FR.DBAccess.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\FR.DBAccess.pdb
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\EntityFramework.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\FR.Domin.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\FR.Domin.pdb
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\EntityFramework.xml
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\obj\Debug\FR.DBAccess.csprojResolveAssemblyReference.cache
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\obj\Debug\FR.DBAccess.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\obj\Debug\FR.DBAccess.pdb
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\obj\Debug\FR.DBAccess.Migrations.init.resources
+E:\STUDENT PROJECTS\MALSHA\FR\FR.DBAccess\obj\Debug\FR.DBAccess.csproj.GenerateResource.Cache

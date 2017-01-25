@@ -1,0 +1,14 @@
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\obj\Debug\FR.BL.csprojResolveAssemblyReference.cache
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.BL.dll.config
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.BL.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.BL.pdb
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\EntityFramework.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.DBAccess.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.Domin.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.DBAccess.pdb
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\FR.Domin.pdb
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\EntityFramework.xml
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\obj\Debug\FR.BL.dll
+E:\STUDENT PROJECTS\MALSHA\FR\FR.BL\obj\Debug\FR.BL.pdb
